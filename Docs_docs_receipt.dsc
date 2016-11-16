@@ -1,0 +1,8 @@
+NUMBER:Счет действительный:russian:(x=440;y=634,x=275;y=501,x=218;y=750;page=2,x=163;y=654;page=2;font_size=10; font_color=black)
+DATE:Поствщик адрес:russian:(x=501;y=634,x=224;y=732;page=2;font_size=10; font_color=black)
+TOTAL_SUM:Всего к оплате:russian:(x=440;y=544,x=123;y=561;page=2;font_size=10; font_color=black)
+SUM_LIT:Поствщик адрес:russian:(x=236;y=456,x=123;y=524;page=2;font_size=10; font_color=black)
+ORDER_TOTAL_SUM_VAT:Поствщик адрес:russian:(x=379;y=412,x=223;y=463;page=2;font_size=10; font_color=black)
+FIO:Поствщик адрес:russian:(x=229;y=521,x=128;y=696;page=2;font_size=10; font_color=black)
+ORGANIZATION_NAME:Поствщик адрес:russian:(x=229;y=752,x=180;y=826;page=2;font_size=10; font_color=black)
+EXPIRE_DATE:Поствщик адрес:russian:(x=341;y=501,x=236;y=654;page=2,x=352;y=654;page=2;font_size=10; font_color=black)
